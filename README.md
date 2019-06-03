@@ -1,2 +1,2 @@
 # vim-huff
-Syntax files for huff (sort of). Currently all it does is detect huff files and set the comment string. Hope to add some more features to make the huff syntax highlighting slightly less annoying.
+Syntax files for [Huff](https://github.com/AztecProtocol/AZTEC/tree/master/packages/huff) (sort of). Currently doesn't do a ton, but enough to make Huff code readable. Hope to add some more features as I go.
