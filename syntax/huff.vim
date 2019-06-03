@@ -3,16 +3,13 @@ if exists('b:current_syntax')
   finish
 endif
 
+syn match huffMethod '#include'
+syn match huffDefine '#define'
+
 syn keyword huffTodo TODO XX FIXME NOTE TBD
 syn keyword huffKeyword
     \ takes
     \ returns
-
-syn keyword huffMethod
-    \ include
-
-syn keyword huffDefine
-    \ define
 
 syn keyword huffMacro nextgroup=huffMacroName skipwhite skipempty
     \ macro
