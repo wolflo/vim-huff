@@ -6,4 +6,4 @@ Syntax files for [Huff](https://github.com/AztecProtocol/AZTEC/tree/master/packa
 ## Usage
 (Substitute your favorite package manager)  
 
-`Plug 'nsward/vim-huff'`
+`Plug 'wolflo/vim-huff'`
