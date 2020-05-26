@@ -1,5 +1,5 @@
 # vim-huff
-Syntax files for [Huff](https://github.com/AztecProtocol/AZTEC/tree/master/packages/huff) (sort of). Currently doesn't do a ton, but enough to make Huff code readable. Hope to add some more features as I go.
+Syntax files for [Huff](https://github.com/AztecProtocol/huff). Doesn't do a ton, but enough to make Huff code readable.
 
 ![highlighting example](./res/highlighting.jpg)
 
